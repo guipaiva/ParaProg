@@ -43,5 +43,13 @@ Trabalho de paradigmas de programação, que consite em um sistema WEB que class
     >GOMES, André. Quero usar o Scrum. Por onde começo?. Disponível em:<https://www.linkedin.com/pulse/quero-aplicar-o-scrum-por-ondecome%C3%A7o-andr%C3%A9-gomes/>. Acesso em: 07 de fevereiro de 2021;
     >PAGOTTO, Thiago. Et al. Scrum solo: Software process for individual development. XI Conferência Ibérica de Sistemas e Tecnologias de Informação (CISTI). 2016.
 
+**Base de dados sobre Tecnologias da arquitetura do software:**
 
+    >RICHARDS, Mark. Software architecture patterns. 1005 Gravenstein Highway North, Sebastopol, CA 95472: O'Reilly Media, Incorporated, 2015. Disponível em: http://sddconf.com/brands/sdd/library/Architecture_Patterns.pdf. Acesso em: 08 de fevereiro de 2021.
+
+
+**PROTOTIPAGEM:**
+Feito no Figma:
+
+  - [ParaDot].(https://www.figma.com/proto/vCXPA8u0Sj0DZtHciQN2wL/Paraprog?node-id=0%3A3&scaling=contain).
 
