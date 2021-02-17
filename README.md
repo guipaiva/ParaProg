@@ -8,7 +8,7 @@ Trabalho de paradigmas de programação, que consite em um sistema WEB que class
 
   - Diego Gabriel Prata Juliano Dimatteu Telles [191057600035];
   - Guilherme Pereira Paiva [181057600032];
-  - Gustavo Santos Costa [181057600005];
+  - Gustavo Santos Costa [181057600005].
 
 #### Plataforma: 
   
