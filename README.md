@@ -10,7 +10,9 @@ Trabalho de paradigmas de programação, que consite em um sistema WEB que class
   - Guilherme Pereira Paiva [181057600032];
   - Gustavo Santos Costa [181057600005];
 
-#### Plataforma: WEB
+#### Plataforma: 
+  
+  - WEB.
 
 #### Tecnologias associadas:
 
