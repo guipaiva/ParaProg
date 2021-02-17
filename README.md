@@ -56,5 +56,5 @@ Trabalho de paradigmas de programação, que consite em um sistema WEB que class
 
 #### PROTOTIPAGEM:
 **Feito no Figma:**
-  - [ParaDot].(https://www.figma.com/proto/vCXPA8u0Sj0DZtHciQN2wL/Paraprog?node-id=0%3A3&scaling=contain).
+  - [ParaDot](https://www.figma.com/proto/vCXPA8u0Sj0DZtHciQN2wL/Paraprog?node-id=0%3A3&scaling=contain).
 
