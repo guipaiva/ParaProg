@@ -4,16 +4,18 @@ Trabalho de paradigmas de programação, que consite em um sistema WEB que class
 
 ## Informações do projeto
 
-**- Componentes**: Diego Gabriel Prata Juliano Dimatteu Telles , Guilherme Pereira Paiva e Gustavo Santos Costa
+**Componentes:** Diego Gabriel Prata Juliano Dimatteu Telles , Guilherme Pereira Paiva e Gustavo Santos Costa
 
-**- Plataforma**: WEB
+**Matrículas:** 191057600035, 181057600032, 181057600005
 
-**- Tecnologias associadas**: [HTML5](https://html5.org/), [CSS3](https://www.w3.org/Style/CSS/Overview.en.html), [JavaScript](https://www.javascript.com/), [MongoDB](https://www.mongodb.com/)
+**Plataforma:** WEB
+
+**Tecnologias associadas:** 
+
+  - [HTML5](https://html5.org/);
+  - [CSS3](https://www.w3.org/Style/CSS/Overview.en.html);
+  - [JavaScript](https://www.javascript.com/);
+  - [MongoDB](https://www.mongodb.com/).
 
 **- Metodologia de Desenvolvimento**: Scrum
-
-
-
-
-
 
