@@ -1,6 +1,6 @@
 # ParaDot
 
-Trabalho de ciência da computação do campus IFB Taguatinga referente à matéria de paradigmas de programação lecionada pelo professor Roberto Fontes, que irá consitir em um sistema WEB que classifica as linguagens de programação de acordo com as características dos paradigmas. 
+Trabalho do curso de ciência da computação do campus IFB Taguatinga referente à matéria de paradigmas de programação lecionada pelo professor Roberto Fontes, que irá consitir em um sistema WEB que classifica as linguagens de programação de acordo com as características dos paradigmas. 
 
 ## Informações do projeto
 
