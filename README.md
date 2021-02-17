@@ -1,12 +1,14 @@
-# ParaProg
+# Paradot
 
-Trabalho de paradigmas de programação, um sistema WEB que classifica as linguagens de acordo com as características de paradigmas. 
+Trabalho de paradigmas de programação, que consite em um sistema WEB que classifica as linguagens de acordo com as características dos paradigmas. 
 
-- Componente: Guilherme Pereira Paiva
+## Informações do projeto
+
+**- Componentes**: Diego Gabriel Prata Juliano Dimatteu Telles , Guilherme Pereira Paiva e Gustavo Santos Costa
 
 - Plataforma: WEB
 
-- Tecnologias associadas: [HTML5](https://html5.org/), [CSS3](https://www.w3.org/Style/CSS/Overview.en.html), [JavaScript](https://www.javascript.com/), [Node.js](https://www.javascript.com/), [React.js](https://pt-br.reactjs.org/), [MongoDB](https://www.mongodb.com/)
+- Tecnologias associadas: [HTML5](https://html5.org/), [CSS3](https://www.w3.org/Style/CSS/Overview.en.html), [JavaScript](https://www.javascript.com/), [MongoDB](https://www.mongodb.com/)
 
 - Metodologia de Desenvolvimento: TDD
 
