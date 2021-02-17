@@ -1,10 +1,10 @@
-# Paradot
+# ParaDot
 
 Trabalho de paradigmas de programação, que consite em um sistema WEB que classifica as linguagens de acordo com as características dos paradigmas. 
 
 ## Informações do projeto
 
-**Componentes:** Diego Gabriel Prata Juliano Dimatteu Telles , Guilherme Pereira Paiva e Gustavo Santos Costa
+###Componentes: Diego Gabriel Prata Juliano Dimatteu Telles , Guilherme Pereira Paiva e Gustavo Santos Costa
 
 **Matrículas:** 191057600035, 181057600032, 181057600005
 
