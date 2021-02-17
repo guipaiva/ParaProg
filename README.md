@@ -17,6 +17,5 @@ Trabalho de paradigmas de programação, que consite em um sistema WEB que class
   - [JavaScript](https://www.javascript.com/);
   - [MongoDB](https://www.mongodb.com/).
 
-- Metodologia de Desenvolvimento: TDD
-
+**- Metodologia de Desenvolvimento**: Scrum
 
