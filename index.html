@@ -1,59 +1,43 @@
 <!DOCTYPE html>
 <html lang="pt_BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Paradot</title>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Paradot</title>
 
-  <!-- CSS -->
-  <link rel="stylesheet" href="./public/css/main.css" />
-  <link rel="stylesheet" href="./public/css/page-landing.css" />
- 
-  
-  <!-- Fonte -->
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet"> 
+		<!-- CSS -->
+		<link rel="stylesheet" href="./public/css/main.css" />
+		<link rel="stylesheet" href="./public/css/page-landing.css" />
+		
+		
+		<!-- Fonte -->
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet"> 
 
-</head>
-<body>
-  <div id="page-landing">
-    <div id="main-container">
-      <div id="logo">
-        <img src="./public/assets/Logo.svg" alt="Logo do site">
-      </div>
-      <div id="xcpw32">
-        <h1>ParaDot</h1>
-        <div id="search-bar">
-          <div id="search-in">
-            <div class="leading">
-              <span class="wFncld z1asCe">
-                <svg focusable="false" viewBox="0 0 24 24">
-                  <path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z">
-                  </path>
-                </svg>
-              </span>
-            </div>
-            <div id="search-box">
-                <input type="text" id="search-input">
-            </div>
-            <div class="trailing">
-              <span class="wFncld z1asCee">
-                <svg focusable="true" viewBox="0 0 22 20">
-                  <path d="M11 0L9.06125 1.70375L16.7337 8.45833H0V10.875H16.7337L9.06125 17.6296L11 19.3333L22 9.66667L11 0Z"/>
-                  </path>
-                </svg>
-              </span>
-            </div>
-          </div>
-        </div>
-   
-      </div>
-      
-      
-    </div>
-  </div>
-  
-  
-  
-</body>
+	</head>
+	<body>
+		<div id="page-landing">
+			<div class="botao">
+				<button type="button">Fazer Login</button>
+			</div>
+			
+			<div id="main-container">
+				<div>
+					<img class = "logo" src="./public/assets/Logo.svg" alt="Logo do site">
+				</div>
+				<h1>ParaDot</h1>
+				
+				<div class="search-box">
+					<svg class="leading" height="30" width="30">
+						<path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
+					</svg>
+					<input class="search-bar" type="text" title="Search">
+				</div>
+				<div>	
+					<button class="btn">Pesquisa Paradot</button>
+					<button class="btn">Ver Todas</button>
+				</div>
+			</div>
+		</div>
+	</body>
 </html>
